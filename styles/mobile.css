@@ -35,7 +35,8 @@ main{
 #main-content{
     height: 100%;
     width: 100%;
-    background-color: rgba(92, 92, 92, 0.3);
+    background-color: rgba(28, 28, 28, 0.5);
+    color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -51,11 +52,13 @@ main{
 }
 #main-3 button{
     width: 90vw;
-    height: 5vh;
+    height: 7vh;
     background-color:  rgb(177, 9, 90);
     border: none;
     border-radius: 5px;
     margin: 0.9%;
+    font-size: 20px;
+    color: white;
 }
 
 

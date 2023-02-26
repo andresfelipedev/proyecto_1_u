@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: qua;
+    overflow-x: hidden;
+}
+#main-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+#main-3 button{
+    width: 20vw;
+}
+
+footer{
+    border-top: 10px solid rgb(177, 9, 90);
+    background-color: rgb(58, 58, 58);
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+footer div{
+    padding: 1%;
+}
